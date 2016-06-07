@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sub_sales_channel: MyString
+  order_number: MyString
+  email: MyString
+  shipping_addressee: MyString
+  shipping_address_line_1: MyText
+  shipping_address_line_2: MyText
+  shipping_address_city: MyString
+  shipping_address_state_province: MyString
+  shipping_address_country: MyString
+  shipping_address_postal_code: 1
+  shipping_address_phone: MyString
+  pickup_addressee: MyString
+  pickup_address: MyText
+  pickup_phone: MyText
+  item_qty: 1
+  gross_total: 9.99
+  payment_type: MyString
+  shipping_type: MyString
+  user_id: 
+
+two:
+  sub_sales_channel: MyString
+  order_number: MyString
+  email: MyString
+  shipping_addressee: MyString
+  shipping_address_line_1: MyText
+  shipping_address_line_2: MyText
+  shipping_address_city: MyString
+  shipping_address_state_province: MyString
+  shipping_address_country: MyString
+  shipping_address_postal_code: 1
+  shipping_address_phone: MyString
+  pickup_addressee: MyString
+  pickup_address: MyText
+  pickup_phone: MyText
+  item_qty: 1
+  gross_total: 9.99
+  payment_type: MyString
+  shipping_type: MyString
+  user_id: 
